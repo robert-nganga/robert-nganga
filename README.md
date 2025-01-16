@@ -5,7 +5,7 @@ Android developer
 -----------------
 
 * ✉️  You can contact me at [robertnganga220@gmail.com](mailto:robertnganga220@gmail.com)
-* 🚀  I'm currently working on [FurryFriends](http://github.com/robert-nganga/FurryFriends)
+* 🚀  I'm currently working on [FunFlix](http://github.com/robert-nganga/FunFlix)
 * 🧠  I'm learning Jetpack compose
 * 🤝  I'm open to collaborating on Android projects
 
