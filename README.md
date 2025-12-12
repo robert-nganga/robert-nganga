@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android developer
 -----------------
 
-* ✉️  You can contact me at [robertnganga220@gmail.com](mailto:robertnganga220@gmail.com)
-* 🚀  I'm currently working on [FunFlix](http://github.com/robert-nganga/FunFlix)
+* 🚀  I'm currently working on [Tasks](http://github.com/robert-nganga/Tasks)
 * 🧠  I'm learning Jetpack compose
 * 🤝  I'm open to collaborating on Android projects
 
