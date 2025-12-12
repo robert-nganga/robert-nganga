@@ -5,7 +5,7 @@ Android developer
 -----------------
 
 * 🚀  I'm currently working on [Tasks](http://github.com/robert-nganga/Tasks)
-* 🧠  I'm learning Jetpack compose
+* 🧠  I'm learning Compose Multiplatform
 * 🤝  I'm open to collaborating on Android projects
 
 ### Skills
